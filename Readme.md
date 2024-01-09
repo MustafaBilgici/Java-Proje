@@ -14,10 +14,10 @@ Projenin çalışması için aşağıdaki gereksinimlere ihtiyaç vardır:
 - Maven
 - Docker ve Docker-compose
 
-### This Project Created by
-
+## This Project Created by
+### Ali Deniz Çetintürk
 ![Ali Deniz Çetintürk](1.jpeg?raw=true)
-
+### Mustafa Bilgici
 ![Mustafa Bilgici](2.jpeg?raw=true)
 ### Kurulum
 
